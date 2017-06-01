@@ -24,6 +24,7 @@ struct ListNode {
 };
 
 int kToLast(ListNode* head, int k) {
+	if(!head) return -1;
 	ListNode* slow_ptr = head;
 	ListNode* fast_ptr = head;
 
