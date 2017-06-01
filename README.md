@@ -1,4 +1,4 @@
-# C-Solutions-to-CTCI
+# C++ Solutions-to-CTCI
 C++ solutions to the Cracking the Coding Interview 
 
 
